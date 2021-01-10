@@ -40,6 +40,15 @@ pip install -r requirements.txt
 python bot.py
 ```
 
+## Credits
+
+Without [@benawad](https://github.com/benawad) this project wouldn't even exist, because without having [VSinder](https://github.com/benawad/vsinder) what's the purpose of having a bot for it?!
+
+## Disclaimer
+
+Developers or anyone associated with this Repository assume no liablity and they are not responsible for how you use this tool.
+Please use this tool for educational purpose only.
+
 ## Author
 
 <a align="center" href="https://3n3a.ch">

@@ -1,7 +1,6 @@
-# [VSinder](https://github.com/benawad/vsinder) Bot
 
 <a href="https://github.com/3n3a/vsinder_bot">
-    <img src="./readme-assets/logo.png" align="right" alt="Logo by 3n3a" width="120" height="178">
+    <img src="https://gh.enea.software/vsinder_bot/readme-assets/logo.png" align="right" alt="Logo by 3n3a" width="120" height="178">
 </a>
 
 [VSinder](https://github.com/benawad/vsinder) Bot is a bot written for the [VSinder](https://github.com/benawad/vsinder) Dating Platform. It's built up from reverse engineering the API Calls the [VSinder](https://github.com/benawad/vsinder) App makes in iOS.
@@ -11,7 +10,7 @@
 * Messaging your Matches
 
 <p align="center">
-  <img src="./readme-assets/screen1.png" alt="The Bot in Action" width="738">
+  <img src="https://gh.enea.software/vsinder_bot/readme-assets/screen1.png" alt="The Bot in Action" width="738">
 </p>
 
 ## Why should you use [VSinder](https://github.com/benawad/vsinder) Bot

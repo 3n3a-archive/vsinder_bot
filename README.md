@@ -24,6 +24,22 @@ The answer is very simple, because it makes using VSinder so much easier :). Ima
 
 3. You found love ... great!
 
+## Usage
+
+1. Clone this reposiory or [download](https://github.com/3n3a/vsinder_bot/archive/master.zip) it [here](https://github.com/3n3a/vsinder_bot/archive/master.zip). And run the following:
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Use an Network Sniffer on iOS ([Charles Proxy (iOS)](https://apps.apple.com/app/charles-proxy/id1134218562#?platform=iphone), [Thor](https://apps.apple.com/us/app/thor-http-sniffer-capture/id1210562295), [Stream (FREE)](https://apps.apple.com/us/app/stream-network-debug-tool/id1312141691)) to capture the `access-token`, `refresh_token` and the `cookie`.
+
+3. Input the `access-token`, `refresh_token` and the `cookie` into the `bot.py` script and run it!
+
+```bash
+python bot.py
+```
+
 ## Author
 
 <a align="center" href="https://3n3a.ch">

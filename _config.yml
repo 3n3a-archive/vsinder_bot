@@ -1,1 +1,5 @@
 theme: jekyll-theme-tactile
+title: VSinder Bot
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

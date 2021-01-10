@@ -23,3 +23,9 @@ The answer is very simple, because it makes using VSinder so much easier :). Ima
 2. After getting a match, which happens pretty fast, VSinder Bot sends all the users that haven't sent a message a _Hey There :)_.
 
 3. You found love ... great!
+
+## Author
+
+<a align="center" href="https://3n3a.ch">
+  <img src="https://avatars1.githubusercontent.com/u/46775561?s=200" alt="The Author" width="200">
+</a>

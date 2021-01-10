@@ -44,7 +44,7 @@ python bot.py
 
 ## Credits
 
-Without [@benawad](https://github.com/benawad) this project wouldn't even exist, because without having [[VSinder](https://github.com/benawad/vsinder)](https://github.com/benawad/vsinder) what's the purpose of having a bot for it?!
+Without [@benawad](https://github.com/benawad) this project wouldn't even exist, because without having [VSinder](https://github.com/benawad/vsinder) what's the purpose of having a bot for it?!
 
 ## Disclaimer
 

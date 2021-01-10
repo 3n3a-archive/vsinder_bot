@@ -1,6 +1,8 @@
 # [VSinder](https://github.com/benawad/vsinder) Bot
 
-<img src="./readme-assets/logo.png" align="right" alt="Logo by 3n3a" width="120" height="178">
+<a href="https://github.com/3n3a/vsinder_bot">
+    <img src="./readme-assets/logo.png" align="right" alt="Logo by 3n3a" width="120" height="178">
+</a>
 
 [VSinder](https://github.com/benawad/vsinder) Bot is a bot written for the [VSinder](https://github.com/benawad/vsinder) Dating Platform. It's built up from reverse engineering the API Calls the [VSinder](https://github.com/benawad/vsinder) App makes in iOS.
 
@@ -50,6 +52,8 @@ Developers or anyone associated with this Repository assume no liablity and they
 Please use this tool for educational purpose only.
 
 ## Author
+
+Enea Krähenbühl, 2021, [Personal Website](https://3n3a.ch), [GitHub](https://github.com/3n3a)
 
 <a align="center" href="https://3n3a.ch">
   <img src="https://avatars1.githubusercontent.com/u/46775561?s=200" alt="The Author" width="200">
